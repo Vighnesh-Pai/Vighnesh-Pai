@@ -1,4 +1,4 @@
-curl https://profile-counter.glitch.me/{YOUR USER}/count.svg
+curl https://profile-counter.glitch.me/{YOURUSER}/count.svg
 
 
 ### Hi there 👋
