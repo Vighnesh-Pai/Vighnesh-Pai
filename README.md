@@ -2,7 +2,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Vighnesh-Pai/count.svg" />
+  <img src="(https://profile-counter.glitch.me/{YOURUSER}/count.svg)" />
 </p>
 
 ### Hi there 👋
