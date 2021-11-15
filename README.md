@@ -2,10 +2,9 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="(https://profile-counter.glitch.me/{YOURUSER}/count.svg)" />
+  <img src="https://profile-counter.glitch.me/{YOURUSER}/count.svg" />
 </p>
 
-### Hi there 👋
 
 <!--
 **Vighnesh-Pai/Vighnesh-Pai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hello There 👋
